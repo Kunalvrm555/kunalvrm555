@@ -6,7 +6,7 @@ Hey There, I am Kunal Verma. I am currently an undergraduate student at IIT Khar
 - 🌱 I’m currently learning ...JavaScript, NodeJS and C++.
 - 👯 I’m looking to collaborate on projects that sound cool and helpful.
 
-<span>I am <a href="https://www.linkedin.com/in/kunalvrm555">I am @kunalvrm555<a></span>
+<span>I am <a href="https://www.linkedin.com/in/kunalvrm555">@kunalvrm555<a></span>
 
 <p align="">
   
