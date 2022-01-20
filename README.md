@@ -1,6 +1,7 @@
 ### Hi there 👋
+### I am Kunal Verma
 
-I am Kunal Verma, currently an undergraduate student at IIT Kharagpur.
+I'm currently an undergraduate student at IIT Kharagpur.
 
 - 🔭 I’m currently working on implementing a customised chatbot for WhatsApp through the awesome library <a href="https://wwebjs.dev">whatsapp-web.js<a>
 - 🌱 I’m currently learning JavaScript, NodeJS and C++.
