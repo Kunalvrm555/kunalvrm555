@@ -1,26 +1,24 @@
-### Hi there 👋
-### I am Kunal Verma
+  <h1 align="center"> Hi there 👋 Glad to see you here 😇 </h1>
+  <h3 align="center"> I am Kunal Verma  </h3>
 
-I'm currently an undergraduate student at IIT Kharagpur.
+  <h3 align="center"> I'm an undergraduate student at IIT Kharagpur. </h3>
 
-- 🔭 I’m currently working on implementing a customised chatbot for WhatsApp through the awesome library <a href="https://wwebjs.dev">whatsapp-web.js<a>
-- 🌱 I’m currently learning JavaScript, NodeJS and C++.
-- 👯 I’m looking to collaborate on projects that sound cool and helpful.
-
-<span>I am <a href="https://www.linkedin.com/in/kunalvrm555">@kunalvrm555<a></span>
-
-<p align="">
+  <h4> &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp I am .. </h4>
   
-  <a href="mailto:kunalvrm555@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white" alt="Email">
-  </a>
+- 🔭 currently working on implementing a customised chatbot for WhatsApp through the awesome library <a href="https://wwebjs.dev">whatsapp-web.js</a> 
+- 🌱 learning JavaScript, NodeJS and C++.
+- 👯 looking to collaborate on projects that sound cool and helpful.
 
-  <a href="https://www.instagram.com/ikunal_verma/" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=instagram&logoColor=white" alt="Instagram">
-  </a>
+<h4 align = "center"><a href="https://www.linkedin.com/in/kunalvrm555">@kunalvrm555<a></h4>
 
-  <a href="https://wa.me/919354817605">
-    <img src="https://img.shields.io/badge/-wa-green?style=flat-square&logo=Whatsapp&logoColor=white" alt="Whatsapp">
-  </a>
-
+<hr>
+  
+<p align="center">
+<a href="https://www.facebook.com/kunalvrm555/" target="blank"><img align="center" src="https://github.com/Kunalvrm555/kunalvrm555/blob/main/icons/icons8-facebook.svg" alt="kunalvrm555" height="30" width="30" /></a>
+<a href="mailto:kunalvrm555@gmail.com" target="blank"><img align="center" src="https://github.com/Kunalvrm555/kunalvrm555/blob/main/icons/icons8-gmail.svg" alt="kunalvrm555" height="30" width="30" /></a>
+<a href="https://instagram.com/ikunal_verma" target="blank"><img align="center" src="https://github.com/Kunalvrm555/kunalvrm555/blob/main/icons/icons8-instagram.svg" alt="ikunal_verma" height="30" width="30" /></a>
+<a href="https://www.linkedin.com/in/kunalvrm555/" target="blank"><img align="center" src="https://github.com/Kunalvrm555/kunalvrm555/blob/main/icons/icons8-linkedin.svg" alt="kunalvrm555" height="30" width="30" /></a>
+<a href="https://wa.me/919354817605" target="blank"><img align="center" src="https://github.com/Kunalvrm555/kunalvrm555/blob/main/icons/icons8-whatsapp.svg" alt="Kunal Verma" height="30" width="30" /></a> 
 </p>
+  
+<hr>
