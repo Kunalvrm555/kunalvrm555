@@ -5,8 +5,8 @@
 
   <h4> &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp I am .. </h4>
   
-- 🔭 currently working on implementing a customised chatbot for WhatsApp through the awesome library <a href="https://wwebjs.dev">whatsapp-web.js</a> 
-- 🌱 learning JavaScript, NodeJS and C++.
+- 🔭 I've recently been working on implementing a customised chatbot for WhatsApp through the awesome library <a href="https://wwebjs.dev">whatsapp-web.js</a> 
+- 🌱 learning JavaScript, Python, NodeJS, React, Ruby and C++.
 - 👯 looking to collaborate on projects that sound cool and helpful.
 
 <h4 align = "center"><a href="https://www.linkedin.com/in/kunalvrm555">@kunalvrm555<a></h4>
